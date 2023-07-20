@@ -21,7 +21,7 @@ function App() {
     <BrowserRouter>
       <header>
         <Link className="site-logo" to="/">
-          #VanLife
+          #VanLife forever
         </Link>
         <nav>
           <Link to="/about">About</Link>
