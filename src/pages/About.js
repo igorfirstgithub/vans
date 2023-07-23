@@ -8,7 +8,7 @@ export default function About() {
       <img
         src={bgImg}
         className="about-hero-image"
-        alt="A man is watching stars sitting on the roof of a van"
+        alt="An orange van under the starry sky"
       />
       <div className="about-page-content">
         <h1>Don’t squeeze in a sedan when you could relax in a van.</h1>
